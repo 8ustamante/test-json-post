@@ -1,0 +1,44 @@
+[
+    {
+        "ProjectName": "Project name 1",
+        "Description": "Project description jaja",
+        "TechnologiesUsed": "Technologies used",
+        "SourceCodeLink": "Link to source code",
+        "ProjectImage": "Image of the project"
+    },
+    {
+        "ProjectName": "Project name 2",
+        "Description": "Project description",
+        "TechnologiesUsed": "Technologies used",
+        "SourceCodeLink": "Link to source code",
+        "ProjectImage": "Image of the project"
+    },
+    {
+        "ProjectName": "Project name 3",
+        "Description": "Project description",
+        "TechnologiesUsed": "Technologies used",
+        "SourceCodeLink": "Link to source code",
+        "ProjectImage": "Image of the project"
+    },
+    {
+        "ProjectName": "Project name 4",
+        "Description": "Project description",
+        "TechnologiesUsed": "Technologies used",
+        "SourceCodeLink": "Link to source code",
+        "ProjectImage": "Image of the project"
+    },
+    {
+        "ProjectName": "Project name 5",
+        "Description": "Project description",
+        "TechnologiesUsed": "Technologies used",
+        "SourceCodeLink": "Link to source code",
+        "ProjectImage": "Image of the project"
+    },
+    {
+        "ProjectName": "Project name 6",
+        "Description": "Project description",
+        "TechnologiesUsed": "Technologies used",
+        "SourceCodeLink": "Link to source code",
+        "ProjectImage": "Image of the project"
+    }
+]

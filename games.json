@@ -2,6 +2,7 @@
   "gamecube_games": [
     {
       "title": "Super Smash Bros. Melee",
+      "category": "Fighting",
       "cover": "super_smash_bros_melee.png",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
@@ -15,6 +16,7 @@
     },
     {
       "title": "The Legend of Zelda: The Wind Waker",
+      "category": "Action-Adventure",
       "cover": "https://m.media-amazon.com/images/I/51p83TJUAYL._SX300_SY300_QL70_FMwebp_.jpg",
       "region": "PAL",
       "languages": ["English", "German", "Italian", "Spanish"],
@@ -28,6 +30,7 @@
     },
     {
       "title": "Metroid Prime",
+      "category": "First-Person Adventure",
       "cover": "https://static.wikia.nocookie.net/metroid/images/4/43/MetroidPrime_boxart.jpg/revision/latest?cb=20080705162733&path-prefix=es",
       "region": "NTSC",
       "languages": ["English", "French", "Spanish"],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Resident Evil 4",
+      "category": "Survival Horror",
       "cover": "https://m.media-amazon.com/images/I/61R8nhgUapL._SL1000_.jpg",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
@@ -54,6 +58,7 @@
     },
     {
       "title": "Paper Mario: The Thousand-Year Door",
+      "category": "RPG",
       "cover": "paper_mario_ttyd.png",
       "region": "PAL",
       "languages": ["English", "German", "Spanish", "French"],
@@ -67,6 +72,7 @@
     },
     {
       "title": "Luigi's Mansion",
+      "category": "Action-Adventure",
       "cover": "luigis_mansion.png",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
@@ -80,6 +86,7 @@
     },
     {
       "title": "Star Wars: Rogue Squadron II - Rogue Leader",
+      "category": "Flight Combat",
       "cover": "rogue_squadron_ii.png",
       "region": "PAL",
       "languages": ["English", "German", "Spanish", "French"],
@@ -93,6 +100,7 @@
     },
     {
       "title": "Eternal Darkness: Sanity's Requiem",
+      "category": "Psychological Horror",
       "cover": "eternal_darkness.png",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
@@ -106,6 +114,7 @@
     },
     {
       "title": "Mario Kart: Double Dash!!",
+      "category": "Racing",
       "cover": "mario_kart_double_dash.png",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
@@ -119,6 +128,7 @@
     },
     {
       "title": "F-Zero GX",
+      "category": "Racing",
       "cover": "fzero_gx.png",
       "region": "PAL",
       "languages": ["English", "German", "Spanish", "French"],
@@ -132,6 +142,7 @@
     },
     {
       "title": "Animal Crossing",
+      "category": "Life Simulation",
       "cover": "animal_crossing.png",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
@@ -145,6 +156,7 @@
     },
     {
       "title": "Pikmin",
+      "category": "Strategy",
       "cover": "pikmin.png",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
@@ -158,6 +170,7 @@
     },
     {
       "title": "Soulcalibur II",
+      "category": "Fighting",
       "cover": "soulcalibur_ii.png",
       "region": "PAL",
       "languages": ["English", "German", "Spanish", "French"],
@@ -171,6 +184,7 @@
     },
     {
       "title": "Viewtiful Joe",
+      "category": "Beat 'em Up",
       "cover": "viewtiful_joe.png",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
@@ -184,6 +198,7 @@
     },
     {
       "title": "Tales of Symphonia",
+      "category": "RPG",
       "cover": "tales_of_symphonia.png",
       "region": "PAL",
       "languages": ["English", "German", "Spanish", "French"],

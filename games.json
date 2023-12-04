@@ -21,14 +21,14 @@
       "category": "Action-Adventure",
       "cover": "https://res.cloudinary.com/dvrjddxpc/image/upload/v1701668038/gamecube/d5xnqyhk3h1op7ao7usv.webp",
       "region": "PAL",
-      "languages": ["English", "German", "Italian", "Spanish"],
+      "languages": ["English", "French", "German", "Spanish", "Italian"],
       "size": "1.4 GB",
       "link": "https://example.com/zelda_wind_waker",
       "rating": 9.2,
       "description": "Epic adventure with Link exploring a vast ocean and rescuing his sister.",
       "console": "GameCube",
-      "gameplay_url": "https://youtube.com/gameplay_zelda_wind_waker",
-      "url_download": "https://example.com/download_zelda_wind_waker"
+      "gameplay_url": "https://www.youtube.com/watch?v=UXZ9rEWkNII&ab_channel=LongplayArchive",
+      "url_download": "https://download1073.mediafire.com/h24kqmuxfdrgm5q_Q2TegkH9w6LUivk6lTxLQ7-vLYiQnVRvgeagL5gTDNV68bzB2MdZii-KozVc9ZZQQ9E3AFYI56pIBReItgFrcpFjMinQ8-W1FUxoQcQl35RFO_cBA7BVIuGqI4LOzORGQc4-SY4lx9UprM7GNnAPtCTIdH0owQ/5g7qbecqv63egva/Legend+of+Zelda%2C+The+-+The+Wind+Waker+%28Europe%29+%28En%2CFr%2CDe%2CEs%2CIt%29.zip"
     },
     {
       "id": 3,
@@ -42,7 +42,7 @@
       "rating": 9.4,
       "description": "First-person adventure featuring Samus Aran exploring a mysterious planet.",
       "console": "GameCube",
-      "gameplay_url": "https://youtube.com/gameplay_metroid_prime",
+      "gameplay_url": "https://www.youtube.com/watch?v=PsHbgeNzwi8&ab_channel=LongplayArchive",
       "url_download": "https://example.com/download_metroid_prime"
     },
     {
@@ -57,7 +57,7 @@
       "rating": 9.6,
       "description": "Survival horror masterpiece with Leon Kennedy battling zombies in Europe.",
       "console": "GameCube",
-      "gameplay_url": "https://youtube.com/gameplay_resident_evil_4",
+      "gameplay_url": "https://www.youtube.com/watch?v=gF2rcJoELqM&ab_channel=10minGameplay",
       "url_download": "https://example.com/download_resident_evil_4"
     },
     {
@@ -72,7 +72,7 @@
       "rating": 9.3,
       "description": "RPG with Mario on a quest to save Princess Peach in a paper-themed world.",
       "console": "GameCube",
-      "gameplay_url": "https://youtube.com/gameplay_paper_mario_ttyd",
+      "gameplay_url": "https://www.youtube.com/watch?v=Jv60C4fb498&ab_channel=NintendoUtopia",
       "url_download": "https://example.com/download_paper_mario_ttyd"
     },
     {
@@ -87,7 +87,7 @@
       "rating": 9.0,
       "description": "Action-adventure where Luigi explores a haunted mansion to rescue Mario.",
       "console": "GameCube",
-      "gameplay_url": "https://youtube.com/gameplay_luigis_mansion",
+      "gameplay_url": "https://www.youtube.com/watch?v=6w3qTjjxctI&ab_channel=NintendoCentral",
       "url_download": "https://example.com/download_luigis_mansion"
     },
     {
@@ -102,7 +102,7 @@
       "rating": 9.1,
       "description": "Arcade-style flight combat set in the Star Wars universe.",
       "console": "GameCube",
-      "gameplay_url": "https://youtube.com/gameplay_rogue_squadron_ii",
+      "gameplay_url": "https://www.youtube.com/watch?v=6Xyge10USMU&ab_channel=LongplayArchive",
       "url_download": "https://example.com/download_rogue_squadron_ii"
     },
     {
@@ -117,7 +117,7 @@
       "rating": 9.7,
       "description": "Psychological horror game with a unique sanity mechanic.",
       "console": "GameCube",
-      "gameplay_url": "https://youtube.com/gameplay_eternal_darkness",
+      "gameplay_url": "https://www.youtube.com/watch?v=rUZ3byJCxEM&ab_channel=AlbertoBlaze",
       "url_download": "https://example.com/download_eternal_darkness"
     }
   ]

@@ -15,7 +15,7 @@
     },
     {
       "title": "The Legend of Zelda: The Wind Waker",
-      "cover": "zelda_wind_waker.png",
+      "cover": "https://m.media-amazon.com/images/I/51p83TJUAYL._SX300_SY300_QL70_FMwebp_.jpg",
       "region": "PAL",
       "languages": ["English", "German", "Italian", "Spanish"],
       "size": "1.4 GB",
@@ -28,7 +28,7 @@
     },
     {
       "title": "Metroid Prime",
-      "cover": "metroid_prime.png",
+      "cover": "https://static.wikia.nocookie.net/metroid/images/4/43/MetroidPrime_boxart.jpg/revision/latest?cb=20080705162733&path-prefix=es",
       "region": "NTSC",
       "languages": ["English", "French", "Spanish"],
       "size": "1.3 GB",
@@ -41,7 +41,7 @@
     },
     {
       "title": "Resident Evil 4",
-      "cover": "resident_evil_4.png",
+      "cover": "https://m.media-amazon.com/images/I/61R8nhgUapL._SL1000_.jpg",
       "region": "NTSC",
       "languages": ["English", "Spanish", "French"],
       "size": "1.5 GB",

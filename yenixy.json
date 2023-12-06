@@ -1,45 +1,79 @@
 {
-  "gameInteraction": {
-    "mission_id": 1,
-    "location": "store",
-    "mission_title": "Buy ice cream at Jimmy's store",
-    "interactions": [
-      {
-        "interaction_id": 1,
-        "full_sentence": "Hello! How are you today?",
-        "incomplete_sentence": "Hello! ____ ____ you today?",
-        "options": ["How are", "How is", "How do", "How were"],
-        "correct_answer": "How are",
-        "hint": "Look at the pronoun 'you'. Do you remember if it's singular or plural? Then, choose the option that matches the correct verb form for that pronoun.",
-        "image_url": "situational_link.png"
-      },
-      {
-        "interaction_id": 2,
-        "full_sentence": "Good afternoon! Can I help you with anything?",
-        "incomplete_sentence": "Good afternoon! Can I help you ____ anything?",
-        "options": ["with", "for", "on", "at"],
-        "correct_answer": "with",
-        "hint": "Think of the correct preposition that follows 'help'.",
-        "image_url": "situational_link2.png"
-      },
-      {
-        "interaction_id": 3,
-        "full_sentence": "I'm sorry, we're closing in 10 minutes. Can I assist you with something quickly?",
-        "incomplete_sentence": "I'm sorry, we're closing in 10 minutes. Can I assist you ____ something quickly?",
-        "options": ["for", "with", "in", "on"],
-        "correct_answer": "with",
-        "hint": "Think of the preposition that correctly follows 'assist'.",
-        "image_url": "situational_link3.png"
-      },
-      {
-        "interaction_id": 4,
-        "full_sentence": "Excuse me, do you know where the ice cream section is?",
-        "incomplete_sentence": "Excuse me, do you know where the ice cream ____ is?",
-        "options": ["section", "aisle", "shelf", "counter"],
-        "correct_answer": "section",
-        "hint": "Think of the word that refers to the specific location of products.",
-        "image_url": "situational_link4.png"
-      }
-    ]
-  }
+  "gameMissions": [
+    {
+      "mission_id": 1,
+      "location": "store",
+      "mission_title": "Buy Ice Cream at Jimmy's Store",
+      "interactions": [
+        {
+          "interaction_id": 1,
+          "full_sentence": "Hello! How are you today?",
+          "incomplete_sentence": "Hello! ____ ____ you today?",
+          "options": ["How are", "How is", "How do", "How were"],
+          "correct_answer": "How are",
+          "hint": "Look at the pronoun 'you'. Do you remember if it's singular or plural? Then, choose the option that matches the correct verb form for that pronoun.",
+          "image_url": "situational_link.png"
+        },
+        {
+          "interaction_id": 2,
+          "full_sentence": "Good afternoon! Can I help you with anything?",
+          "incomplete_sentence": "Good afternoon! Can I help you ____ anything?",
+          "options": ["with", "for", "on", "at"],
+          "correct_answer": "with",
+          "hint": "Think of the correct preposition that follows 'help'.",
+          "image_url": "situational_link2.png"
+        }
+      ]
+    },
+    {
+      "mission_id": 2,
+      "location": "park",
+      "mission_title": "Find the Lost Dog",
+      "interactions": [
+        {
+          "interaction_id": 1,
+          "full_sentence": "Hey! Have you seen a lost dog around here?",
+          "incomplete_sentence": "Hey! Have you seen a lost dog ____ here?",
+          "options": ["on", "at", "around", "to"],
+          "correct_answer": "around",
+          "hint": "Think about the preposition that correctly indicates the area.",
+          "image_url": "lost_dog_link.png"
+        },
+        {
+          "interaction_id": 2,
+          "full_sentence": "Sure, I saw a dog near the playground. What does it look like?",
+          "incomplete_sentence": "Sure, I saw a dog near the playground. What does it look ____?",
+          "options": ["like", "for", "at", "after"],
+          "correct_answer": "like",
+          "hint": "Choose the word that is commonly used to inquire about appearance.",
+          "image_url": "lost_dog_link2.png"
+        }
+      ]
+    },
+    {
+      "mission_id": 3,
+      "location": "library",
+      "mission_title": "Retrieve a Lost Book",
+      "interactions": [
+        {
+          "interaction_id": 1,
+          "full_sentence": "Excuse me, I seem to have misplaced my book. Can you help me find it?",
+          "incomplete_sentence": "Excuse me, I seem to have misplaced my book. Can you help me find ____?",
+          "options": ["it", "its", "it's", "itself"],
+          "correct_answer": "it",
+          "hint": "Choose the pronoun that refers to the book.",
+          "image_url": "lost_book_link.png"
+        },
+        {
+          "interaction_id": 2,
+          "full_sentence": "Certainly, let me check the lost and found section for you.",
+          "incomplete_sentence": "Certainly, let me check the lost and found ____ for you.",
+          "options": ["area", "place", "section", "spot"],
+          "correct_answer": "section",
+          "hint": "Think about the word commonly used to designate a specific part of a larger space.",
+          "image_url": "lost_book_link2.png"
+        }
+      ]
+    }
+  ]
 }

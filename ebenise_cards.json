@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "001",
+    "product_name": "GameX",
+    "product_image": "path/to/image1.jpg",
+    "platform": "PC",
+    "note": "Very popular game",
+    "card_value": 50,
+    "sale_price": 45,
+    "country": "Colombia"
+  },
+  {
+    "product_id": "002",
+    "product_name": "GameY",
+    "product_image": "path/to/image2.jpg",
+    "platform": "PS5",
+    "note": "Requires subscription",
+    "card_value": 60,
+    "sale_price": 55,
+    "country": "Colombia"
+  },
+  {
+    "product_id": "003",
+    "product_name": "Steam 5000 Pesos Colombia",
+    "product_image": "https://cdn.icon-icons.com/icons2/2407/PNG/512/steam_icon_146047.png",
+    "platform": "Multiplataforma",
+    "note": "* Solo region Colombia *",
+    "card_value": 5000,
+    "sale_price": 8000,
+    "country": "https://static.vecteezy.com/system/resources/thumbnails/027/292/115/small_2x/flag-of-colombia-colombia-flag-wave-colombia-flag-png.png"
+  },
+  {
+    "product_id": "004",
+    "product_name": "GameA",
+    "product_image": "path/to/image4.jpg",
+    "platform": "Switch",
+    "note": "Suitable for all ages",
+    "card_value": 80,
+    "sale_price": 75,
+    "country": "Colombia"
+  },
+  {
+    "product_id": "005",
+    "product_name": "GameB",
+    "product_image": "path/to/image5.jpg",
+    "platform": "Mobile",
+    "note": "Requires internet connection",
+    "card_value": 90,
+    "sale_price": 85,
+    "country": "Colombia"
+  }
+]

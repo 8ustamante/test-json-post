@@ -23,11 +23,11 @@
     "product_id": "003",
     "product_name": "Steam 5000 Pesos Colombia",
     "product_image": "https://cdn.icon-icons.com/icons2/2407/PNG/512/steam_icon_146047.png",
-    "platform": "Multiplataforma",
+    "platform": "Steam",
     "note": "* Solo region Colombia *",
     "card_value": 5000,
     "sale_price": 8000,
-    "country": "https://static.vecteezy.com/system/resources/thumbnails/027/292/115/small_2x/flag-of-colombia-colombia-flag-wave-colombia-flag-png.png"
+    "country": "colombia"
   },
   {
     "product_id": "004",
